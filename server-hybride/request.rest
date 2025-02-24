@@ -1,0 +1,10 @@
+#Post: http://localhost:4000/users //Create Users
+#Get: http://localhost:4000/users //recupere tout les  Users
+#Get: http://localhost:4000/users/fdefab32-1089-44f9-9c7b-260d3ae3e59a //recupere un Users en fonction de son id
+#PATCH http://localhost:4000/users/fdefab32-1089-44f9-9c7b-260d3ae3e59a //met a jour le users
+# #####
+#Post: http://localhost:4000/login //Login Users
+#Get: http://localhost:4000/me //recuper le user deja conceter Users db
+#DELETE: http://localhost:4000/logout //Logout Users
+# Action sur les Produits
+# GET: http://localhost:4000/products //recupere tout les  produis

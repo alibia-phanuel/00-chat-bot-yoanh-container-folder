@@ -1,0 +1,20 @@
+[
+  {
+    "name": "phanue alibia",
+    "email": "phanuel.alibia@gmail.com",
+    "password": "alibia2001",
+    "confPassword": "alibia2001",
+    "role": "user"
+  },
+  {
+    "name": "Yoanh",
+    "email": "hamedsoumahorofbk@gmail.com",
+    "password": "Pythasoumah",
+    "confPassword": "Pythasoumah",
+    "role": "admin"
+  },
+  {
+    "name": "produit one",
+    "price": "1234"
+  }
+]
