@@ -54,7 +54,7 @@ const Messageries = () => {
           </TouchableOpacity>
         </View>
         {/**Render FlatList for chats */}
-        <View className="mb-[300px] relative top-[1%]">
+        <View className="mb-[360px] relative top-[1%]">
           <FlatList
             data={filterUsers}
             renderItem={({ item, index }) => (

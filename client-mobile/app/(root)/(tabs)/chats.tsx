@@ -20,7 +20,7 @@ const Chatboot = () => {
   const renderContent = () => {
     return (
       <View>
-        <View className="relative bg-white  py-10 flex items-center">
+        <View className="relative  py-10 flex items-center">
           <View>
             <Text className="text-xl font-JakartaBold">Chat-boot</Text>
           </View>
