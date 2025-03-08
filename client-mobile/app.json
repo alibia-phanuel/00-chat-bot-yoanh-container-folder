@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "client-mobile",
-    "slug": "client-mobile",
+    "name": "UberCloneReactNative",
+    "slug": "UberCloneReactNative",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
